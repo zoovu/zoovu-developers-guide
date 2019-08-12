@@ -1,3 +1,4 @@
+# misc
 .DS_Store
 build/
 target/
@@ -5,6 +6,9 @@ node_modules/
 *.log
 local-environment.json
 .env
+
+### VS Code
+.vscode
 
 ### IntelliJ IDEA
 
