@@ -60,7 +60,7 @@ yarn run deploy
 Theme after deploy will be available on URL:
 
 ```
-https://themes-tiger.zoovu.com/custom-dev/nisbets/catering-equipment/<project version>
+<BUCKET_PUBLIC_URL>/<project name>/<project version>
 ```
 
 ## Update project dependencies
