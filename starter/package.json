@@ -1,5 +1,5 @@
 {
-  "name": "@zoovu/thme-starter-pack",
+  "name": "@zoovu/theme-starter-pack",
   "webDesignName": "ThemeStarterPack",
   "description": "Zoovu theme starter pack",
   "version": "4.14.0",
@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "clean": "rimraf build target package-lock.json && rimraf node_modules",
-    "bootstrap": "yarn clean && yarn && rimraf node_modules/@zoovu/runner-web-design-base/node_modules/@zoovu",
+    "bootstrap": "yarn install",
     "start": "yarn package-dev-preview",
     "package-dev": "zoovu-web-design package-dev",
     "package-dev-watch": "zoovu-web-design package-dev-watch",
