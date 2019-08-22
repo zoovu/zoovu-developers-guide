@@ -25,6 +25,8 @@ To run project in development mode type in console:
 yarn run start
 ```
 
+NOTICE: To start developing the project, you need first have initialized Git repository with at least one commit!
+
 ### Parameters of dotenv file
 
 |Option name|Description|
