@@ -28,8 +28,8 @@
     "deploy": "yarn build && zoovu-web-design deploy-to-s3"
   },
   "dependencies": {
-    "@zoovu/runner-browser-api": "^4.14.0",
-    "@zoovu/runner-web-design-base": "^4.14.0",
+    "@zoovu/runner-browser-api": "^4.15.1",
+    "@zoovu/runner-web-design-base": "^4.17.0",
     "chroma-js": "^1.4.0",
     "v-tooltip": "2.0.2"
   },
