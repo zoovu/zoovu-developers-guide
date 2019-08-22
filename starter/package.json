@@ -27,9 +27,6 @@
     "analyze-profile": "webpack-bundle-analyzer ./build/package-stats.json",
     "deploy": "yarn build && zoovu-web-design deploy-to-s3"
   },
-  "publishConfig": {
-    "registry": "https://nexus.smartassistant.com/nexus/repository/smartassistant-npm/"
-  },
   "dependencies": {
     "@zoovu/runner-browser-api": "^4.14.0",
     "@zoovu/runner-web-design-base": "^4.14.0",
