@@ -1036,7 +1036,7 @@
     pino-pretty "^2.5.0"
     ramda "^0.26.1"
 
-"@zoovu/runner-browser-api@^4.14.0":
+"@zoovu/runner-browser-api@^4.15.1":
   version "4.15.1"
   resolved "https://registry.yarnpkg.com/@zoovu/runner-browser-api/-/runner-browser-api-4.15.1.tgz#b010611056bb3f84c97a077b5626a97fb34eddef"
   integrity sha512-FYpJGaCRzBjlmuybeRfAkHHK2Bj4JWDRoZXpAT/rGOjy3VnTX6jgisfLwQ69IkCSot8B+74z8jSvva+C787JGQ==
@@ -1056,7 +1056,7 @@
     vue-i18n "^8.8.2"
     vue-property-decorator "~7.0.0"
 
-"@zoovu/runner-web-design-base@^4.14.0":
+"@zoovu/runner-web-design-base@^4.17.0":
   version "4.17.0"
   resolved "https://registry.yarnpkg.com/@zoovu/runner-web-design-base/-/runner-web-design-base-4.17.0.tgz#a063c0f375bbb8f3e9057e6dc8853ab0fbddff59"
   integrity sha512-5ryzLqFJvGoAMWkAjkE9hrjuCPqjNiv9dXaiU1RjKEWig6P2mX5+eTlwZ4SNHBAFjUE2MDEnzJ+3b5caN+gbFw==
