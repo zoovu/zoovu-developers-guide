@@ -1,8 +1,9 @@
 {
-  "name": "@zoovu/thme-starter-pack",
+  "name": "@zoovu/theme-starter-pack",
   "webDesignName": "ThemeStarterPack",
   "description": "Zoovu theme starter pack",
   "version": "4.14.0",
+  "private": true,
   "license": "SEE LICENSE IN LICENSE",
   "main": "build/dist/webdesign-bundle.min.js",
   "files": [
@@ -26,9 +27,6 @@
     "package-profile": "webpack --profile --json --config ./../../node_modules/@zoovu/runner-web-design-base/zoovu-web-design-cli/web-design-webpack.config.js > ./build/package-stats.json",
     "analyze-profile": "webpack-bundle-analyzer ./build/package-stats.json",
     "deploy": "yarn build && zoovu-web-design deploy-to-s3"
-  },
-  "publishConfig": {
-    "registry": "https://nexus.smartassistant.com/nexus/repository/smartassistant-npm/"
   },
   "dependencies": {
     "@zoovu/runner-browser-api": "^4.14.0",
